@@ -1,0 +1,10 @@
+Written on: 6/3/25
+
+Writing a journal to practice recording my design thoughts.  
+I want to pursue designing a data collection device that could help develop my python skills while also learning to use a Raspberri Pi, which I haven't used before.  
+I suppose it is also an opportunity to learn markdown a bit better too.  
+A place to start would be with a cheap sensor that collects psychrommetric data, then upload it either to my pc or github. From there it can be analyzed in a python file, and plots can be made.   
+Collecting psychrometric data is relevant way to utilize my knowledge of both HVAC design and data analysis. Ideally I could collect my personal data and compare it to weather forecasts during the same time period.    
+Comparing the data collected to weather forecasts can show how well the insulation and air handling unit control the comfort of the house.  
+
+To start I'm going to do some research on how well a Pi can collect data, and then what sensor to use. A friend of ours had a sensor that used a prewritten library to collect psychrometric data, perhaps that would be a good place to start.
