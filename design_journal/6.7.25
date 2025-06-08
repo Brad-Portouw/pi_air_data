@@ -1,0 +1,21 @@
+Design Journal: pi_air_data project GitHub
+Date: 6/7/25
+Author: Brad Portouw
+Subject: Finding datasets
+
+Looking online NOAA has published weather datasets available that are likely a good fit for the psychometric data that I am looking for.
+
+The dataset that will likely be the best fit is found in the Climate Data Online Normals Daily section. The sample data is given as a CSV so I plan on importing it to investigate it's viability.
+
+Ideally the dataset contains local hourly data for:
+
+1. Temperature
+2. Pressure
+3. Relative Humidity
+
+And ideally has:
+4. Heating and Cooling degree days
+
+
+With a reliable source of weather data it would be a great exercise to scrape this data regularly, then compare it to my own results.
+
